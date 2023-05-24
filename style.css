@@ -83,6 +83,7 @@ button {
     height: 50px;
     width: 100%;
     margin: 32px 0 32px;
+    border: none;
 }
 .bottom a {
     font-weight: 900;
